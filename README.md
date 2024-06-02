@@ -1,4 +1,4 @@
-# minotProject
+# majorProject
 
 1. Tumor Detection
 2. Automated College Timetable Generator
